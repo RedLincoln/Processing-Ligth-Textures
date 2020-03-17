@@ -8,6 +8,9 @@
 
 ## Desarrollo
 
+Es necesario añadir la libreria 
+ [Libreria PeasyCam](https://github.com/jdf/peasycam) a processing.
+
 El objetivo de esta práctica es hacer uso de las herramientas de iluminación que nos proporciona processing
  así como las posibilidades que nos da para añadir objetos con texturas propias [Véase las referencias]. La escena consta de una pared, suelo y una planta. Se va observando como se ve los diferentes tipos de luz presentados según el usuario presiona el click derecho o izquierdo. Para facilitar el uso de la cámara se utilizo
  una librería de processing
